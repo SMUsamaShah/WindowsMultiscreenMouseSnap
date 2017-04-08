@@ -6,3 +6,5 @@ I recently added another monitor to my computer and it was really annoying when 
 I saw in Ubuntu that it sticks the mouse to the edge between displays for a while when quickly moved to the edge.
 
 This utility does the similar.
+
+Download and Run: https://github.com/SMUsamaShah/WindowsMultiscreenMouseSnap/raw/master/Release/WindowsMultiscreenMouseFix.exe
